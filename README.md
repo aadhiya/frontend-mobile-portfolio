@@ -1,5 +1,7 @@
 # frontend-mobile-portfolio
-Frontend Portfolio
+
+**React Native + Flutter | Production Apps 2025 | POS/Inventory Ready**
+
 ## 1. Redline – Car Service App (React Native/Expo)
 **Live client app for garage staff: Job tracking, service management, billing & thermal printing.**
 
@@ -110,4 +112,11 @@ Image upload, with location information on the images
 - **Billing:** Thermal invoices → Receipts/POS printing.
 - **UX:** Dark mode, responsive, intuitive for staff/clients.
 
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Expo](https://img.shields.io/badge/Expo-4630EB?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+
+📱 **Demo**: RentalApp APK available (live backend). React apps handed to clients.
+💼 **Supermarket Ready**: POS printing, inventory, carts, reports.
 
