@@ -50,14 +50,22 @@ Frontend Portfolio
 - **Billing:** Thermal invoices → Receipts/POS printing.
 - **UX:** Dark mode, responsive, intuitive for staff/clients.
 
-  ## 3. RentalApp – Flutter Inventory [file:191][file:192]
-**Simple clean design per client: Stock, rentals, billing/printer.**
-- Home/Available
-  below images show scrennshot of home screen and availabilty screen which shows a list of available rntal images ,the user can select what imtem he wants to rent from this list,a search option is also given to make the access of item easier,the list shows current stock of that item as well.
-  ![Rental Home](rentalappscreens/home.jpeg)
-- Reports/Bill Gen [file:192][file:194]
-- Details/Photos [file:193][file:195]
-- Stock Mgmt/Date Picker [file:197][file:198]
-**Supermarket fit:** Product lists → Available materials, thermal bills.
+  ## 3. RentalApp – Flutter Inventory
+**Client-specified simple, clean design for rental inventory management with stock tracking, billing, and thermal printing.**
 
-  
+### User Flow
+1. **Browse & Select Items** – View available rentals with search and current stock levels.
+2. **Enter Details** – Add customer info, select dates, capture photos (ID/vehicle).
+3. **Generate Bill** – Calculate totals with discounts/advance, print receipt.
+4. **View Reports** – Filter rentals by date/status (pending/paid).
+5. **Manage Stock** – Add/update inventory items and quantities.
+
+| Home & Available Items | Item Selection & Date Picker | Customer Details & Photos |
+|------------------------|------------------------------|---------------------------|
+| ![Home Screen](rentalappscreens/home.jpeg) | ![Select Item](rentalappscreens/select-item.jpeg) ![Date Picker](rentalappscreens/select-date.jpeg) | ![Customer Form](rentalappscreens/enter-customer-detail.jpeg) ![ID Photo](rentalappscreens/addharpic.jpeg) |
+
+| Bill Generation | Reports | Stock Management |
+|-----------------|---------|------------------|
+| ![Bill Screen](rentalappscreens/billscreen.jpeg) | ![Reports](rentalappscreens/reportscreen.jpeg) | ![Stock Update](rentalappscreens/stockupdatescreen.jpeg) |
+
+**Supermarket Relevance:** Product catalog → available items list, receipt printing, inventory updates, sales reports by date.
