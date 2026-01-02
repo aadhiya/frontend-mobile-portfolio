@@ -60,21 +60,30 @@ Frontend Portfolio
 4. **View Reports** – Filter rentals by date/status (pending/paid).
 5. **Manage Stock** – Add/update inventory items and quantities.
 
-**Home Screen **
-| ![Home](rentalappscreens/home.jpeg) |
-** Available Items List**
-![Select Item](rentalappscreens/select-item.jpeg) <br> ![Date Picker](rentalappscreens/select-date.jpeg) |
+<div align="center">
 
+**Home Screen**  
+![Home](rentalappscreens/home.jpeg =250x*)
 
-**Customer Details Entry**
+**Item Selection**  
+![Select Item](rentalappscreens/select-item.jpeg =250x*) 
 
-| ![Customer Form](rentalappscreens/enter-customer-detail.jpeg) <br> ![ID Photo](rentalappscreens/addharpic.jpeg) |
-**Bill Generation**
-![Bill](rentalappscreens/billscreen.jpeg) 
-**Rental Reports**
-![Reports](rentalappscreens/reportscreen.jpeg)
-**Stock Management**
-![Stock](rentalappscreens/stockupdatescreen.jpeg) |
+![Date Picker](rentalappscreens/select-date.jpeg =250x*)
 
+**Customer Details**  
+![Customer Form](rentalappscreens/enter-customer-detail.jpeg =250x*) 
+
+![ID Photo](rentalappscreens/addharpic.jpeg =250x*)
+
+**Bill Generation**  
+![Bill](rentalappscreens/billscreen.jpeg =250x*)
+
+**Rental Reports**  
+![Reports](rentalappscreens/reportscreen.jpeg =250x*)
+
+**Stock Management**  
+![Stock](rentalappscreens/stockupdatescreen.jpeg =250x*)
+
+</div>
 
 **Supermarket Relevance:** Product catalog → available items list, receipt printing, inventory updates, sales reports by date.
