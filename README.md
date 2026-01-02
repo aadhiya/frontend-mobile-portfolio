@@ -61,29 +61,26 @@ Frontend Portfolio
 5. **Manage Stock** – Add/update inventory items and quantities.
 
 <div align="center">
-
 **Home Screen**  
-![Home](rentalappscreens/home.jpeg =250x*)
+<img src="rentalappscreens/home.jpeg" width="250">
 
 **Item Selection**  
-![Select Item](rentalappscreens/select-item.jpeg =250x*) 
-
-![Date Picker](rentalappscreens/select-date.jpeg =250x*)
+<img src="rentalappscreens/select-item.jpeg" width="250"> <img src="rentalappscreens/select-date.jpeg" width="250">
 
 **Customer Details**  
-![Customer Form](rentalappscreens/enter-customer-detail.jpeg =250x*) 
-
-![ID Photo](rentalappscreens/addharpic.jpeg =250x*)
+<img src="rentalappscreens/enter-customer-detail.jpeg" width="250"> <img src="rentalappscreens/addharpic.jpeg" width="250">
 
 **Bill Generation**  
-![Bill](rentalappscreens/billscreen.jpeg =250x*)
+<img src="rentalappscreens/billscreen.jpeg" width="250">
 
 **Rental Reports**  
-![Reports](rentalappscreens/reportscreen.jpeg =250x*)
+<img src="rentalappscreens/reportscreen.jpeg" width="250">
 
 **Stock Management**  
-![Stock](rentalappscreens/stockupdatescreen.jpeg =250x*)
+<img src="rentalappscreens/stockupdatescreen.jpeg" width="250">
 
 </div>
+
+
 
 **Supermarket Relevance:** Product catalog → available items list, receipt printing, inventory updates, sales reports by date.
