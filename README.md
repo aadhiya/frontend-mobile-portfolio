@@ -89,7 +89,7 @@ Tech: Expo SDK 53, Material UI, responsive design. Production-ready for POS syst
 <img src="dohapride/home.jpeg" width="250"> 
 
 ### Trip Details
-Status updates, car/driver info – order management
+Status updates, car/driver info –  management
 
 <img src="dohapride/trip-detail.jpeg" width="250"> 
 <img src="dohapride/start-endoption.jpeg" width="250"> 
@@ -97,7 +97,7 @@ Status updates, car/driver info – order management
 
 
 ### End Trip
-Image upload, delivery confirmation
+Image upload, with location information on the images
 
 <img src="dohapride/end-trip.jpeg" width="250">
 </div>
