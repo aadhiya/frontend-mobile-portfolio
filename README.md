@@ -1,4 +1,4 @@
-# frontend-mobile-portfolio
+# Frontend-mobile-portfolio
 
 **React Native + Flutter | Production Apps 2025 | POS/Inventory Ready**
 
@@ -118,5 +118,6 @@ Image upload, with location information on the images
 [![Expo](https://img.shields.io/badge/Expo-4630EB?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
 
 📱 **Demo**: RentalApp APK available (live backend). React apps handed to clients.
+
 💼 **Supermarket Ready**: POS printing, inventory, carts, reports.
 
