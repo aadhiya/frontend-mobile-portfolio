@@ -74,16 +74,21 @@ Tech: Expo SDK 53, Material UI, responsive design. Production-ready for POS syst
 
 
 **Supermarket Relevance:** Product catalog → available items list, receipt printing, inventory updates, sales reports by date.
-## 2. DohaPride Driver – Taxi Dispatch App [file:184][file:185]
+
+
+## 3. DohaPride Driver – Taxi Dispatch App
 **Real-time trips, maps, status updates.**
 
 ### Key Screens & Design Approach
-- **Dashboard/Trips** [file:186][file:187]: Map integration, real-time lists – delivery tracking.
-- **Trip Details** [file:188][file:189]: Status badges, car details – order status.
+- **Dashboard/Trips** : Map integration, real-time lists – delivery tracking.
+(dohapride/home.jpeg)
+- **Trip Details** : Status badges, car details – order status.
+(dohapride/trip-detail.jpeg)
+(dohapride/start-endoption.jpeg)
+(dohapride/driver-detail.jpeg)
+- 
 - **End Trip** [file:190]: Image upload, confirmation – proof of delivery.
-
-![Today Trips][file:186]
-![Trip Card][file:187]
+ ( dohapride/end-trip)
 
 **Patterns for Supermarket:** Searchable lists, maps for stores, modals for quick actions.
 
