@@ -28,7 +28,9 @@ Invoicing & Printing
 Full service bills + Quick print for simple jobs
 
 Main Service Bill	Quick Print Flow
-<img src="redline-carservice/bill.jpeg" width="250">	<img src="redline-carservice/quickprint(1).jpeg" width="180">
+<img src="redline-carservice/bill.jpeg" width="250">	
+
+<img src="redline-carservice/quickprint(1).jpeg" width="180">
 <img src="redline-carservice/quickprint(2).jpeg" width="180">
 <img src="redline-carservice/quickbill.jpeg" width="180">
 </div>
