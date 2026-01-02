@@ -54,7 +54,7 @@ Frontend Portfolio
 **Simple clean design per client: Stock, rentals, billing/printer.**
 - Home/Available
   below images show scrennshot of home screen and availabilty screen which shows a list of available rntal images ,the user can select what imtem he wants to rent from this list,a search option is also given to make the access of item easier,the list shows current stock of that item as well.
-  ![Rental Home](screenshots/rental-home.png)
+  ![Rental Home](rentalappscreens/home.jpeg)
 - Reports/Bill Gen [file:192][file:194]
 - Details/Photos [file:193][file:195]
 - Stock Mgmt/Date Picker [file:197][file:198]
