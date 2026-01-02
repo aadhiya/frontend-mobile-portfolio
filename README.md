@@ -61,8 +61,9 @@ Frontend Portfolio
 5. **Manage Stock** – Add/update inventory items and quantities.
 
 <div align="center">
-**Home Screen**  
-<img src="rentalappscreens/home.jpeg" width="250">
+
+  **Home Screen and available items screen**  
+<img src="rentalappscreens/home.jpeg" width="250"> <img src="rentalappscreens/material-list.jpeg" width="250">
 
 **Item Selection**  
 <img src="rentalappscreens/select-item.jpeg" width="250"> <img src="rentalappscreens/select-date.jpeg" width="250">
