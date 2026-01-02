@@ -50,12 +50,38 @@ Frontend Portfolio
 - **Billing:** Thermal invoices → Receipts/POS printing.
 - **UX:** Dark mode, responsive, intuitive for staff/clients.
 
-  ## 3. RentalApp – Flutter Inventory [file:191][file:192]
-**Simple clean design per client: Stock, rentals, billing/printer.**
-- Home/Available [file:191][file:196]
-- Reports/Bill Gen [file:192][file:194]
-- Details/Photos [file:193][file:195]
-- Stock Mgmt/Date Picker [file:197][file:198]
-**Supermarket fit:** Product lists → Available materials, thermal bills.
+  ## 3. RentalApp – Flutter Inventory
+**Client-specified simple, clean design for rental inventory management with stock tracking, billing, and thermal printing.**
 
-  
+### User Flow
+1. **Browse & Select Items** – View available rentals with search and current stock levels.
+2. **Enter Details** – Add customer info, select dates, capture photos (ID/vehicle).
+3. **Generate Bill** – Calculate totals with discounts/advance, print receipt.
+4. **View Reports** – Filter rentals by date/status (pending/paid).
+5. **Manage Stock** – Add/update inventory items and quantities.
+
+<div align="center">
+
+  **Home Screen and available items screen**  
+<img src="rentalappscreens/home.jpeg" width="250"> <img src="rentalappscreens/material-list.jpeg" width="250">
+
+**Item Selection**  
+<img src="rentalappscreens/select-item.jpeg" width="250"> <img src="rentalappscreens/select-date.jpeg" width="250">
+
+**Customer Details**  
+<img src="rentalappscreens/enter-customer-detail.jpeg" width="250"> <img src="rentalappscreens/addharpic.jpeg" width="250">
+
+**Bill Generation**  
+<img src="rentalappscreens/billscreen.jpeg" width="250">
+
+**Rental Reports**  
+<img src="rentalappscreens/reportscreen.jpeg" width="250">
+
+**Stock Management**  
+<img src="rentalappscreens/stockupdatescreen.jpeg" width="250">
+
+</div>
+
+
+
+**Supermarket Relevance:** Product catalog → available items list, receipt printing, inventory updates, sales reports by date.
