@@ -84,20 +84,24 @@ Tech: Expo SDK 53, Material UI, responsive design. Production-ready for POS syst
 
 ### Dashboard & Trips
 **Map integration, real-time driver lists – delivery tracking**
-<img src="dohapride/home.jpeg" width="250"> ```
-Trip Details
+
+
+<img src="dohapride/home.jpeg" width="250"> 
+
+### Trip Details
 Status updates, car/driver info – order management
 
-text
 <img src="dohapride/trip-detail.jpeg" width="250"> 
 <img src="dohapride/start-endoption.jpeg" width="250"> 
 <img src="dohapride/driver-detail.jpeg" width="250">
-End Trip
+
+
+### End Trip
 Image upload, delivery confirmation
 
-text
 <img src="dohapride/end-trip.jpeg" width="250">
 </div>
+
 **Patterns for Supermarket:** Searchable lists, maps for stores, modals for quick actions.
 
 ## Relevance to Supermarket App
