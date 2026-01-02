@@ -1,5 +1,6 @@
 # frontend-mobile-portfolio
-Frontend Portfolio## 1. Redline – Car Service App (React Native/Expo)
+Frontend Portfolio
+## 1. Redline – Car Service App (React Native/Expo)
 **Live client app for garage staff: Job tracking, service management, billing & thermal printing.**
 
 <div align="center">
@@ -7,18 +8,22 @@ Frontend Portfolio## 1. Redline – Car Service App (React Native/Expo)
 ### Dashboard & Services
 **Login → Main Service List** (Client data – no live credentials available)
 <img src="redline-carservice/login.jpeg" width="250"> <img src="redline-carservice/mainservice-list.jpeg" width="250"> ```
+
 Job Cards Management
 Assign services to employees with full vehicle details
 
 <img src="redline-carservice/jobcard.jpeg" width="250">
 <img src="redline-carservice/main-page.jpeg" width="250">
+
 Quick Services & Estimates
 Service catalog → Quick actions → Delivery scheduling → Estimates
 
 Services List	Quick Service (Car Wash)	Delivery Date
 <img src="redline-carservice/servicelist.jpeg" width="180">	<img src="redline-carservice/carwash.jpeg" width="180">	<img src="redline-carservice/deliverydate.jpeg" width="180">
+
 Sub-Services	Vehicle Details	Estimate Approval
 <img src="redline-carservice/select-service.jpeg" width="180">	<img src="redline-carservice/vehicle-detail.jpeg" width="180">	<img src="redline-carservice/estimate-page.jpeg" width="180">
+
 Invoicing & Printing
 Full service bills + Quick print for simple jobs
 
